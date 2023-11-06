@@ -29,6 +29,15 @@ This is a Kanban project (KayTask) written in Laravel. You can use it by followi
     php artisan migrate:fresh --seed
    ```
 
+6. **run your code**:  To run your project, run the following command:
+   ```bash
+   php artisan server
+   ```
+7. **Generate Key**: You may need to generate a key for your Laravel project. To do that, run the following command:
+   ```bash
+   php artisan key:generate
+   ```
+
 ## Usage
 You are now ready to use the GitHub Kanban Project with Laravel. Here's some login information to get started:
 
