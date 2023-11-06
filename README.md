@@ -7,7 +7,7 @@ This is a Kanban project (KayTask) written in Laravel. You can use it by followi
 1. **Clone the Project**: First, clone the project to your computer using your preferred Git client or the command line:
 
     ```bash
-    git clone https://github.com/jameskaydev/kanban.git ```
+    git clone https://github.com/jameskaydev/kanban.git
     ```
 
 2. **Install Dependencies**: Navigate to the project directory and run the following command to install the necessary dependencies using Composer:
